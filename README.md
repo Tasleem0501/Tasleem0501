@@ -1,6 +1,6 @@
 ### **Hi there, I'm Tasleem Shaik!** 👋  
 
-A passionate **Data Science & AI enthusiast** with a love for transforming raw data into actionable insights. My journey revolves around exploring the power of data to drive innovation, optimize processes, and solve real-world challenges.  
+A passionate **Data Science & AI enthusiast** with a love for transforming raw data into whatever you want or I want mostly it's you though. My journey revolves around solving new problems created by new technologies which is so much fun.
 
 🔍 **Interests:**  
 - **Machine Learning** & **Deep Learning**  
