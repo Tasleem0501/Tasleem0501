@@ -16,9 +16,9 @@ A passionate **Data Science & AI enthusiast** with a love for transforming raw d
 - Open-source **Data Science/AI projects**  
 - Research in **NLP or Computer Vision**  
 - Anything that combines **data + impact**!  
-📫 **Let's Connect!**  
-- ✉️ **Email**: [sktasleem1206@gmail.com]  
-- 🔗 **LinkedIn**: [http://www.linkedin.com/in/tasleem-shaik] 
+📫   **Let's Connect!**  
+- ✉️ **Email**: sktasleem1206@gmail.com
+- 🔗 **LinkedIn**: http://www.linkedin.com/in/tasleem-shaik
 <!--
 **Tasleem0501/Tasleem0501** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
